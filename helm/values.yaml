@@ -1,5 +1,5 @@
 appName: mongo-workout
-replicaCount: 2
+replicaCount: 1
 mongoVersion: "4.2.6"
 mongoDBUsers:
   username: "my-user"
